@@ -43,8 +43,20 @@ dependencies {
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
-    implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
+
+    // ViewModel
+    implementation(libs.androidx.lifecycle.viewmodel)
+
+    // LiveData
+    implementation(libs.androidx.lifecycle.livedata)
+
+    // Fragment
+    implementation(libs.androidx.fragment)
+
+    // Activity
+    implementation(libs.androidx.activity)
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
