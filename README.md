@@ -2,6 +2,8 @@
 
 Esta aplicación es un ejemplo práctico y sencillo que demuestra cómo implementar la arquitectura MVVM (Model-View-ViewModel) en Android. Utiliza tecnologías modernas y buenas prácticas para separar la lógica de negocio de la interfaz de usuario, facilitando el mantenimiento y la escalabilidad del código.
 
+Inspiración: ---> ArisGuimera
+
 ---
 
 <h2> 🛠️ Características principales:</h2>
